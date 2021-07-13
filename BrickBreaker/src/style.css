@@ -1,0 +1,15 @@
+#gameScreen{
+    border: 3px solid black;
+}
+h1{
+    color: palevioletred;
+}
+.author{
+    position: fixed;
+    bottom: 3vh ;
+    right: 2vw;
+}
+
+span{
+    font-size: 30px;
+}
